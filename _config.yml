@@ -2,7 +2,7 @@ title: Ana Maria Restrepo M.
 description: Sitio personal
 
 url: http://fmauricios.github.com/ana
-baseurl: ""
+baseurl: /
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
