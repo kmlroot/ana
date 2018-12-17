@@ -1,7 +1,7 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: Ana Maria Restrepo M.
+description: Sitio personal
 
-url: http://brianmaierjr.github.com/long-haul
+url: http://fmauricios.github.com/ana
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -12,17 +12,14 @@ gems: [jekyll-paginate]
 paginate: 5
 
 navigation:
- - title: Home
+ - title: Inicio
    url: /index.html
- - title: About
+ - title: Acerca de mi
    url: /about
- - title: Contact
+ - title: Contacto
    url: /contact
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+   email: anarestrepomejia@gmail.com
 
 google_analytics: "UA-58263416-1"
